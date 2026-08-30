@@ -4,4 +4,5 @@ public static void main (string[]args){
 int a=10;
 String b="tamizh";
 System.out.println(a,b);
+System.out.println(a+b);
 }
