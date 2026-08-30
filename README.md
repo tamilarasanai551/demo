@@ -1,8 +1,2 @@
-# demo
-java practice projects
-public static void main (string[]args){
-int a=10;
-String b="tamizh";
-System.out.println(a,b);
-System.out.println(a+b);
-}
+java practice projects.
+This repository is contains my basic java programs
